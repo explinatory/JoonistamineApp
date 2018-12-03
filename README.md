@@ -2,8 +2,6 @@ Songplayerino applikatsioon.
 
 <a href="https://imgflip.com/gif/2o0y45"><img src="https://i.imgflip.com/2o0y45.gif" title="made at imgflip.com"/></a>
 
-<img src="https://media.giphy.com/media/dgBoU6if8Pg8RO9mcV/giphy.gif" title="not made at imgflip.com"/></a>
-
 # Sisukord
 * Tutvustus
   1. Mis on SongPlayerino ning tema eesmärk?
