@@ -4,13 +4,13 @@ Songplayerino applikatsioon.
 
 # Sisukord
 * Tutvustus
-  1. Mis on SongPlayerino ning tema eesmärk?
+  1. Mis on JoonistamineApp ning tema eesmärk?
   2. Kellele on see äpp mõeldud?
   3. Kuidas ta toimib?
 
 # Tutvustus
 
-## Mis on SongPlayerino ning tema eesmärk?
+## Mis on Joonistamineapp ning tema eesmärk?
 
 JoonistamineApp on kiirelt tehtud app, mille põhitegevuseks on joonistamine.
 
